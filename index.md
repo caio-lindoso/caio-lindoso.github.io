@@ -1,6 +1,6 @@
 ---
 title: Getting started with Cognigy.AI
-permalink: /getting-started-with-cognigy-ai-1
+permalink: /getting-started-with-cognigy-ai
 ---
 
 # Getting started with Cognigy.AI
@@ -22,13 +22,13 @@ To log in to Cognigy.AI, go to [https://train.cognigy.ai](https://trial.cognigy.
 
 You can also set up single sign-on (SSO) login for your users. Learn how to set up SSO login in the [Single Sign On section](https://support.cognigy.com/hc/en-us/categories/360002716460-How-to-s-Tutorials) of our Help Center.
 
-## Create a VA <a name="create-a-project"></a> <!-- Why is this button called create project if it triggers a processe to create a VA? Are there other objects to create inside a project or can you create different VA's inside one project -->
+## Create a VA <a name="create-a-project"></a>
 
 In the Congnigy index dashboard, you can create and access your VA's.
 
 To create a VA, follow these steps:
 
-1. In the index dashboard, click **+ Create Project** on the top left.  
+1. In the index dashboard, click **+ Create Project** on the top left.  <!-- Why is this button called create project if it triggers a processe to create a VA? Are there other objects to create inside a project or can you create different VA's inside one project -->  
     The configuration window opens.
 2. In the **Basic Information** window, configure the following:
     - **Project Name**
