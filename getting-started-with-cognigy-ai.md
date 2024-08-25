@@ -2,7 +2,7 @@
 title: Getting started with Cognigy.AI
 ---
 
-# Cognigy.AI
+# Getting started with Cognigy.AI
 
 Cognigy.AI is a platform to create virtual agents (VA) and design conversation flows that meet your customer experience (CX) needs. A VA is a bot you can customize to perform customer interactions. With Cognigy.AI, you can create chat and voice VA's.
 
