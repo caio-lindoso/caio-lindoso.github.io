@@ -1,6 +1,5 @@
 ---
 title: Getting started with Cognigy.AI
-permalink: /getting-started-with-cognigy-ai-1
 ---
 
 # Getting started with Cognigy.AI
