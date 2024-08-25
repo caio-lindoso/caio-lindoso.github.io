@@ -1,6 +1,6 @@
 ---
 title: Getting started with Cognigy.AI
-permalink: https://caio-lindoso.github.io/getting-started-with-cognigy-ai-1
+permalink: /getting-started-with-cognigy-ai-1
 ---
 
 # Getting started with Cognigy.AI
