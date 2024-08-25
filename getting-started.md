@@ -7,7 +7,7 @@ Cognigy.AI is a platform to create virtual agents (VA) and design conversation f
 
 ## Prerequisite <a name="prerequisite"></a>
 
-You need to have created a Cognigy.AI account. If you do not have a Cognigy.AI account, contact your dedicated Cognigy.AI consultant. <!-- What would be the correct process to get a Cognigy.AI account? -->
+You need to have created a Cognigy.AI account. If you do not have a Cognigy.AI account, [contact your dedicated Cognigy.AI consultant](https://www.cognigy.com/contact-us). <!-- What would be the correct process to get a Cognigy.AI account? For reference I'm using the contact us link, but I imagine the right way would be different. -->
 
 ## Log in to Cognigy.AI <a name="log-in-to-cofnigy-ai"></a>
 
