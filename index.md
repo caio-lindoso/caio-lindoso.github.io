@@ -5,7 +5,7 @@ permalink: /getting-started-with-cognigy-ai
 
 # Getting started with Cognigy.AI
 
-Cognigy.AI is a platform to create Virtual Agents (VA) and design [conversation flows](https://support.cognigy.com/hc/en-us/articles/360014524180-Design-a-Flow-and-add-a-Message) that meet your customer experience (CX) needs. A VA is a bot you can customize to perform customer interactions. With Cognigy.AI, you can create chat and voice VA's.
+Cognigy.AI is a platform to create Virtual Agents (VA) and design [conversation Flows](https://support.cognigy.com/hc/en-us/articles/360014524180-Design-a-Flow-and-add-a-Message) that meet your customer experience (CX) needs. A VA is a bot you can customize to perform customer interactions. With Cognigy.AI, you can create chat and voice VA's.
 
 ## Prerequisite <a name="prerequisite"></a>
 
@@ -45,7 +45,7 @@ To create a VA, follow these steps:
 
 You have created a VA! Now, you have the following options: <!-- Why do we give the user two options in the UI? Isn't this confusing? Is testing the VA directly after setting it up useful or is it better to keep configuring and improving it before really testing it? What is the benefit of people testing it directly after creating it? -->
 
-- To check and test your conversation flow, click **Chat with your Agent**.
+- To check and test your VA's conversation Flow, click **Chat with your Agent**.
 - To check your VA settings, click **Go to project**.
 
-After you have created your VA, you can [design flows and messages](https://support.cognigy.com/hc/en-us/articles/360014524180-Design-a-Flow-and-add-a-Message) for your VA. <!-- What would be the best next step here? Setting up integrations, adding customized lexicons, maybe give various options depending on the use case? -->
+After you have created your VA, you can [design Flows and Messages](https://support.cognigy.com/hc/en-us/articles/360014524180-Design-a-Flow-and-add-a-Message) for your VA. <!-- What would be the best next step here? Setting up integrations, adding customized lexicons, maybe give various options depending on the use case? -->
