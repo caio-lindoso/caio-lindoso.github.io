@@ -9,7 +9,7 @@ Cognigy.AI is a platform to create and customize  Virtual Agents (VA) that meet 
 
 ## Prerequisite <a name="prerequisite"></a>
 
-You need to have created a Cognigy.AI account. If you do not have a Cognigy.AI account, [contact a Cognigy.AI consultant](https://www.cognigy.com/contact-us). <!-- What would be the correct process to get a Cognigy.AI account? For reference I'm using the contact us link, but I imagine the right way would be different. -->
+You have created a Cognigy.AI account. If you do not have a Cognigy.AI account, [contact a Cognigy.AI consultant](https://www.cognigy.com/contact-us). <!-- What would be the correct process to get a Cognigy.AI account? For reference I'm using the contact us link, but I imagine the right way would be different. -->
 
 ## Log in to Cognigy.AI <a name="log-in-to-cofnigy-ai"></a>
 
@@ -28,20 +28,20 @@ In the Congnigy.AI index dashboard, you can create and access your VA's.
 
 To create a VA, follow these steps:
 
-1. In the index dashboard, click **+ Create Project** on the top left.  <!-- Why is this button called create project if it triggers a processe to create a VA? Are there other objects to create inside a project or can you create different VA's inside one project -->  
+1. Click **+ Create Project** on the top left.  <!-- Why is this button called create project if it triggers a processe to create a VA? Are there other objects to create inside a project or can you create different VA's inside one project -->  
     The configuration window opens.
 2. In the **Basic Information** window, configure the following:
     - **Project Name**
     - **NLU language**: Primary language of your VA
-    - **Color**: The color helps you identify your VA in the index dashboard.
+    - **Color**: The color helps you identify your VA in the Cognigy.AI index dashboard.
     - (Optional) **Set Up Cognigy Live Agent**: To set up a [Congigy Live Agent](https://docs.cognigy.com/live-agent/tools/odata-endpoint/), click **Set Up Live Agent** and activate the **Create Cognigy Live Agent Inbox**. <!-- Are there any repercussions in setting it up from the get-go? Are there any prerequisites or any data needed for this? -->
 3. Click **Next: Selection Solution Accelerator**.
-4. In the **Solution Accelerator** window, select a flow and lexicon template and click **Next: Select Channels**. To create a VA without predefined resources, select **Blank**.
-5. In the **Channels** window, select the channels in which you want to use your VA and **Next: Add Skills**.
-6. (Optional) In the **Skills** window, select a lexicon that is helpful for your VA.
+4. In the **Solution Accelerator** window, select a [Flow and Lexicon template](https://support.cognigy.com/hc/en-us/articles/4406747756946-Cognigy-AI-Solution-Accelerators) and click **Next: Select Channels**. To create a VA without predefined resources, select **Blank**.
+5. In the **Channels** window, select the Channels in which you want to use your VA and **Next: Add Skills**.
+6. (Optional) In the **Skills** window, select a pre-define [Lexicon](https://support.cognigy.com/hc/en-us/articles/360014776979-Match-User-Expressions-with-a-Lexicon#-1-create-a-lexicon-0-0) that corresponds to the intended purpose of your VA. <!-- Why is the name of this window if you can choose a Lexicon in it? -->
 7. Click **Create**.
 
-<!-- Why do all the buttons include "Next" and the name of the section that is repeated on the left side? Isn't this somewhat redundant? -->
+<!-- Why do all the buttons to proceed with configuration include "Next" and the name of the section that is repeated on the left side? Isn't this somewhat redundant? -->
 
 You have created a VA! Now, you have the following options: <!-- Why do we give the user two options in the UI? Isn't this confusing? Is testing the VA directly after setting it up useful or is it better to keep configuring and improving it before really testing it? What is the benefit of people testing it directly after creating it? -->
 
