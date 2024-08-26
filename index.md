@@ -48,4 +48,4 @@ You have created a VA! Now, you have the following options: <!-- Why do we give 
 - To check and test your VA's conversation Flow, click **Chat with your Agent**.
 - To check your VA settings, click **Go to project**.
 
-After you have created your VA, you can [design Flows and Messages](https://support.cognigy.com/hc/en-us/articles/360014524180-Design-a-Flow-and-add-a-Message) for your VA. <!-- What would be the best next step here? Setting up integrations, adding customized lexicons, maybe give various options depending on the use case? -->
+After you have created your VA, you can access your VA on the left side of the Cognigy.AI dashboard. Start customizing your VA by [designing Flows and adding Messages](https://support.cognigy.com/hc/en-us/articles/360014524180-Design-a-Flow-and-add-a-Message). <!-- What would be the best next step here? Setting up integrations, adding customized lexicons, maybe give various options depending on the use case? -->
