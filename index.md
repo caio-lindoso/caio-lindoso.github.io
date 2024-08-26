@@ -5,7 +5,7 @@ permalink: /getting-started-with-cognigy-ai
 
 # Getting started with Cognigy.AI
 
-Cognigy.AI is a platform to create Virtual Agents (VA) and design [conversation Flows](https://support.cognigy.com/hc/en-us/articles/360014524180-Design-a-Flow-and-add-a-Message) that meet your customer experience (CX) needs. A VA is a bot you can customize to perform customer interactions. With Cognigy.AI, you can create chat and voice VA's.
+Cognigy.AI is a platform to create Virtual Agents (VA) and design [conversation Flows](https://support.cognigy.com/hc/en-us/articles/360014524180-Design-a-Flow-and-add-a-Message) that meet your customer experience (CX) needs. A VA is a bot you can customize to perform customer interactions. With Cognigy.AI, you can create [chat and voice VA's](https://support.cognigy.com/hc/en-us/articles/7138355918876-Universal-skills-for-Chat-and-Voice).
 
 ## Prerequisite <a name="prerequisite"></a>
 
