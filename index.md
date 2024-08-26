@@ -24,7 +24,7 @@ You can also set up single sign-on (SSO) login for your users. Learn how to set 
 
 ## Create a VA <a name="create-a-project"></a>
 
-In the Congnigy index dashboard, you can create and access your VA's.
+In the Congnigy.AI index dashboard, you can create and access your VA's.
 
 To create a VA, follow these steps:
 
