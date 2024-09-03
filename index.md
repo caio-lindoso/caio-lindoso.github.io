@@ -38,7 +38,7 @@ To create a VA, follow these steps:
 3. Click **Next: Selection Solution Accelerator**.
 4. In the **Solution Accelerator** window, select a [Flow and Lexicon template](https://support.cognigy.com/hc/en-us/articles/4406747756946-Cognigy-AI-Solution-Accelerators) and click **Next: Select Channels**. To create a VA without predefined resources, select **Blank**.
 5. In the **Channels** window, select the Channels in which you want to use your VA and **Next: Add Skills**.
-6. (Optional) In the **Skills** window, select a pre-defined [Lexicon](https://support.cognigy.com/hc/en-us/articles/360014776979-Match-User-Expressions-with-a-Lexicon#-1-create-a-lexicon-0-0) that corresponds to the intended purpose of your VA. <!-- Why is the name of this window if you can choose a Lexicon in it? -->
+6. (Optional) In the **Skills** window, select a predefined [Lexicon](https://support.cognigy.com/hc/en-us/articles/360014776979-Match-User-Expressions-with-a-Lexicon#-1-create-a-lexicon-0-0) that corresponds to the intended purpose of your VA. <!-- Why is the name of this window if you can choose a Lexicon in it? -->
 7. Click **Create**.
 
 <!-- Why do all the buttons to proceed with configuration include "Next" and the name of the section that is repeated on the left side? Isn't this somewhat redundant? -->
